@@ -11,11 +11,4 @@ public class Test
 	public void write()
 	{
 	}
-	public void read()
-	{dddd
-	{das
-	}
 }
-2221111
-asd
-s
