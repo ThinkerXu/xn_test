@@ -11,7 +11,7 @@ public class Test
 	public void write()
 	{
 	}
-	private void test()
+	public void read()
 	{
 	}
 }
