@@ -1,3 +1,10 @@
 ffdfdsf
 123
 yonghu2
+
+public class Test
+{
+	private void main()
+	{
+	}
+}
