@@ -9,10 +9,10 @@ public class Test
 	}
 	
 	public void write()
-	{
+	{dddd
 	}
 	public void read()
-	{
+	{dddd
 	}
 }
 2221111
